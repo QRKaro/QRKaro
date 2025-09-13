@@ -61,7 +61,7 @@ const Hero = () => {
             </div>
             
             {/* Stats */}
-            <div className="flex flex-wrap justify-center lg:justify-start gap-6 sm:gap-8 pt-4">
+            {/* <div className="flex flex-wrap justify-center lg:justify-start gap-6 sm:gap-8 pt-4">
               <div className="text-center">
                 <div className="text-3xl font-bold text-primary">500+</div>
                 <div className="text-sm text-muted-foreground">Restaurants Served</div>
@@ -74,7 +74,7 @@ const Hero = () => {
                 <div className="text-3xl font-bold text-accent">24h</div>
                 <div className="text-sm text-muted-foreground">Quick Delivery</div>
               </div>
-            </div>
+            </div> */}
           </div>
           
           {/* Right Content - Interactive Visual */}
